@@ -37,4 +37,9 @@ ul {
     flex-direction: column;
 }
 
+header a {
+    color: black;
+    text-decoration: none;
+}
+
 
